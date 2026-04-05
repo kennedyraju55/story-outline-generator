@@ -1,0 +1,2 @@
+[console_scripts]
+story-gen = story_gen.cli:main
